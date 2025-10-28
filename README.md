@@ -38,9 +38,12 @@ Shortcode options:
 
 ### Pictures
 - Desktop
-<img src="desktop.jpg" alt="TOC Plugin Screenshot Desktop" width="600">
+
+  <img src="desktop.jpg" alt="TOC Plugin Screenshot Desktop" width="600">
+
 - Mobile
-<img src="mobile.jpg" alt="TOC Plugin Screenshot Desktop" width="600">
+
+  <img src="mobile.jpg" alt="TOC Plugin Screenshot Mobile" width="600">
 
 ### Support
 Use the Technical Support tab in the plugin settings. Messages go to `seo@stanchev.bg`.
