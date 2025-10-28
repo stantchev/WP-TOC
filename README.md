@@ -2,7 +2,7 @@
 
 Modern, lightweight Table of Contents for WordPress. Auto-generates a TOC from headings, supports shortcode and widget, and is translation-ready.
 
-Quick links: [Website](https://stanchev.bg/) · [Issues]([https://github.com/](https://github.com/stantchev/WP-TOC/issues)) · [Changelog](./changelog.txt)
+Quick links: [Website](https://stanchev.bg/) · [Issues]([https://github.com/](https://github.com/stantchev/WP-TOC/issues) · [Changelog](./changelog.txt)
 
 ### Highlights
 - Auto-generate TOC from H1–H6
