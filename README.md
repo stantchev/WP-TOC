@@ -36,6 +36,12 @@ Shortcode options:
 - Place `.mo/.po` in `languages/`  
 - Force admin UI language: Settings → Table of Contents → General → Plugin UI Language
 
+### Pictures
+#### Desktop
+<img src="desktop.jpg" alt="TOC Plugin Screenshot Desktop" width="600">
+#### Mobile
+<img src="mobile.jpg" alt="TOC Plugin Screenshot Desktop">
+
 ### Support
 Use the Technical Support tab in the plugin settings. Messages go to `seo@stanchev.bg`.
 
