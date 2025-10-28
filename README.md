@@ -37,9 +37,9 @@ Shortcode options:
 - Force admin UI language: Settings → Table of Contents → General → Plugin UI Language
 
 ### Pictures
-#### Desktop
+- Desktop
 <img src="desktop.jpg" alt="TOC Plugin Screenshot Desktop" width="600">
-#### Mobile
+- Mobile
 <img src="mobile.jpg" alt="TOC Plugin Screenshot Desktop" width="600">
 
 ### Support
